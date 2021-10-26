@@ -1,0 +1,46 @@
+.carousel-caption {
+    position: absolute;
+    right: 15%;
+    bottom: 160px;
+    left: 15%;
+    z-index: 10;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: #fff;
+    text-align: center;
+}
+.about-content i{
+    font-size: 30px;;
+}
+.about-content h2{
+    padding-top: 20px;
+}
+.about h1{
+    font-size: 50px;
+}
+.getting{
+    background: url(img/51.jpg);
+    height: 200px;
+    background-size: cover;
+    position:relative;
+}
+.getting h1{
+    color:#00fff3;
+    font-size: 50px;
+
+}
+.getting-overlay{
+    position: absolute;
+    width:100%;
+    height:100%;
+    background:rgba(33, 10, 243, 0.7);
+}
+.gallery a{
+    margin-left:26px;
+}
+.gallery img.taw{
+    margin-left:52px;
+}
+.gallery img.margin-left{
+    margin-left: -52px;
+}
